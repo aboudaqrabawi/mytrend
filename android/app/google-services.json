@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323299047534",
+    "firebase_url": "https://trends-cf627-default-rtdb.firebaseio.com",
+    "project_id": "trends-cf627",
+    "storage_bucket": "trends-cf627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323299047534:android:f765a1951610c62b9a4e7f",
+        "android_client_info": {
+          "package_name": "com.nextstagejo.mytrend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323299047534-i052gjm1ia5bp7dej74ir4d2uec0ijii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMD3_3Lk00Gr6teB7Pcl2ANVYr5-07yXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323299047534-i052gjm1ia5bp7dej74ir4d2uec0ijii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
